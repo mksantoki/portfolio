@@ -56758,7 +56758,7 @@ A.Vo.prototype={}
 A.Vh.prototype={}
 A.Dl.prototype={
 J(a,b){var s=A.aV(b).Z3(B.bF,B.aq,B.aj,B.bF)
-return new A.u3(new A.Co(A.XR(),null),new A.Um(),"Flutter Portfolio",s,B.tw,!1,null)}}
+return new A.u3(new A.Co(A.XR(),null),new A.Um(),"Portfolio",s,B.tw,!1,null)}}
 A.Um.prototype={
 $2(a,b){var s=null
 b.toString
